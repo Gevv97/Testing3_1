@@ -29,8 +29,8 @@ public class WebDriverProjectTest {
         elem1.click();
 
 
-        var elem4 = driver.findElement(By.name("PM"));
-        elem4.click();
+        var elem2 = driver.findElement(By.name("PM"));
+        elem2.click();
 
     }
 }
